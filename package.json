@@ -39,7 +39,7 @@
     "enzyme-to-json": "^3.4.4",
     "eslint": "^6.8.0",
     "eslint-config-amex": "^11.1.0",
-    "jest": "^25.1.0",
+    "jest": "^30.2.0",
     "rimraf": "^3.0.0",
     "glob": "^7.1.6",
     "@babel/polyfill": "^7.8.3",
